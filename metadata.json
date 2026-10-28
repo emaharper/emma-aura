@@ -1,0 +1,6 @@
+{
+  "name": "Emma Aura - Visual Story & Photo Gallery",
+  "description": "Every Picture Holds A Story: 112 Captivating Stories of Beauty & Elegance with interactive photo gallery, stories, and collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

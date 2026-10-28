@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-script {
+    font-family: 'Great Vibes', cursive;
+  }
+  .font-cursive {
+    font-family: 'Dancing Script', cursive;
+  }
+  .font-display {
+    font-family: 'Playfair Display', serif;
+  }
+  .font-sans-clean {
+    font-family: 'Outfit', 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b0717;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2a1b4e;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ec4899;
+}
